@@ -14,7 +14,7 @@
     "require": {
         "php": ">=7.0.0"
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "master",
     "autoload": {
         "psr-4": {
             "Yin32167\\CpsTpl\\": "src/"

@@ -1,0 +1,13 @@
+{
+    "name": "oin5566/hello",
+    "description": "echo hello world",
+    "license": "MIT License",
+    "authors": [
+        {
+            "name": "chenjie",
+            "email": "chenjie@chenjie.info"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

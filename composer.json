@@ -1,13 +1,25 @@
 {
-    "name": "oin5566/hello",
-    "description": "echo hello world",
-    "license": "MIT License",
+    "name": "oin5566/htllo",
+    "description":  "My template of composer project!",
+    "keywords": ["yin32167"],
+    "license": "MIT",
     "authors": [
         {
-            "name": "chenjie",
-            "email": "chenjie@chenjie.info"
+            "name": "Magina Yin",
+            "email": "yin32167@aliyun.com",
+            "homepage": "https://github.com/yin32167",
+            "role": "Developer"
         }
     ],
-    "minimum-stability": "dev",
-    "require": {}
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "@stable"
+    },
+    "autoload": {
+        "psr-4": {
+            "Yin32167\\CpsTpl\\": "src/"
+        }
+    }
 }
